@@ -38,8 +38,7 @@ An LED strip in a built frame showing Ed Hawkins-style warming stripes from a ce
 ## 3. Things that may help
 
 - **A micro:bit has no internet.** Anything live needs a laptop running Python that fetches and pushes to the micro:bit over USB serial or radio. Applies to A and the hybrid — decide the architecture early.
-- Platform is micro:bit by default (it's what our other activities use). Deviate only with a reason, and flag it on day 2 with your choice.
-- Whichever you pick: **it has to work with no internet.** Live data can be the stretch, never the dependency.
+- Platform is micro:bit by default (it's what our other activities use). Feel free to use another platform if you want.
 
 ## 4. Deliverables
 
