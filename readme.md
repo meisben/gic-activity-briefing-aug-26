@@ -62,7 +62,8 @@ An LED strip in a built frame showing Ed Hawkins-style warming stripes from a ce
 
 - Watch the National Emergency Briefing long-form expert briefings online at [nebriefing.org](https://www.nebriefing.org/expert-briefings)
 - Read through our existing activities: the [wind turbine](https://meisben.github.io/gic_windTurbine_website/) and [volume meter](https://meisben.github.io/gic_volumeMeter_website_live/) sites and repos
-- **Build one of our existing kits yourself.** Ten minutes with a turbine in your hands teaches more than any document — and it'll inform your choice.
+- Write down your ideas about the activity that you want to create
+- Decide what materials and tools you might like to use
 
 The common parts (micro:bit, battery packs, breakout boards) are ordered already, so nothing is waiting on your decision except the option-specific bits.
 
