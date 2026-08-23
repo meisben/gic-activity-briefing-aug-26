@@ -12,9 +12,9 @@ Design, build and document a new Girls into Coding workshop activity on the them
 
 Everything is open source. You keep full credit, can share it in your portfolio, and are welcome to help deliver it at a real event (subject to DBS — flag early if interested, the lead time is the bottleneck).
 
-## 2. Choose one of three
+## 2. Potential options
 
-Three worked-up concepts. **Pick one [by end of day 2] and tell me. Create a parts list and I'll send you the budget to order.** Three weeks is tight, recommend keep as simple as possible.
+Three worked-up concepts which we can potentially use. When you've decided what you want to do. Create a parts list and I'll send you the budget to order. Three weeks is tight, recommend keep as simple as possible.
 
 ### Option A — Climate Beacon
 
