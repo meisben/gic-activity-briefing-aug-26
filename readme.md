@@ -65,8 +65,6 @@ An LED strip in a built frame showing Ed Hawkins-style warming stripes from a ce
 - Write down your ideas about the activity that you want to create
 - Decide what materials and tools you might like to use
 
-The common parts (micro:bit, battery packs, breakout boards) are ordered already, so nothing is waiting on your decision except the option-specific bits.
-
 ## 6. How we'll work
 
 I'm on annual leave for part of this but available throughout on a flexible basis. **WhatsApp me freely — don't sit blocked.** Send a short end-of-day note: what you did, what's next, what's stuck. We'll do a longer call at each week's gate.
